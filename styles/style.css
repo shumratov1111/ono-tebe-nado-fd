@@ -46,7 +46,6 @@
 .address {
   font-style: inherit;
   justify-self: end;
-  font-style: inherit;
   padding-right: 40px;
 }
 
@@ -195,24 +194,20 @@ main {
   width: auto;
   height: 100%;
   padding: 50px 40px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .card_type_book {
   background-image: url(../images/card-lot-02.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .card_type_picture {
   background-image: url(../images/card-lot-03.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .card__title {
